@@ -1,2 +1,19 @@
-# small-business-vlan-network
-VLAN-based small business network using Cisco Packet Tracer with inter-VLAN routing between HR, Sales, and IT departments.
+## 📸 Network Evidence
+
+### 🏗️ Full Network Topology
+![Topology](Small Business Network Topology.png)
+
+---
+
+### 🔀 Switch TRUNK Configuration
+![Switch TRUNK](Switch Trunk Config.png)
+
+---
+
+### 🌐 Router Configuration
+![Router Config](Router CLI(Subinterfaces).png)
+
+---
+
+### 🧪 Connectivity Test (Ping Success)
+![Ping Test](Successful ping results.png)
