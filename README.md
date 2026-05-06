@@ -1,19 +1,19 @@
 ## 📸 Network Evidence
 
 ### 🏗️ Full Network Topology
-![Topology](Small Business Network Topology.png)
+![Topology](topology.png)
 
 ---
 
 ### 🔀 Switch TRUNK Configuration
-![Switch TRUNK](Switch Trunk Config.png)
+![Switch TRUNK](switch-trunk.png)
 
 ---
 
 ### 🌐 Router Configuration
-![Router Config](Router CLI(Subinterfaces).png)
+![Router Config](router-config.png)
 
 ---
 
 ### 🧪 Connectivity Test (Ping Success)
-![Ping Test](Successful ping results.png)
+![Ping Test](ping-test.png)
